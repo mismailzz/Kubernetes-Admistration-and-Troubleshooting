@@ -4,4 +4,7 @@ Welcome to the digital underbelly of Kubernetes administration and troubleshooti
 
 ## What's Inside 📦
 
-- **Pod-to-Pod Connectivity Troubleshooting**: A comprehensive guide through the shadowy labyrinth of pod communication. This is your first step into a larger world, a map through the complex web of connections that form the lifeblood of your applications. Dive in [here](https://whimsical.com/pod-to-pod-connectivity-troubleshooting-SgqHnAK5ChbPxvDN5gBJSm).
+- **Pod-to-Pod Connectivity Troubleshooting**: Debugging Tree [here](https://whimsical.com/pod-to-pod-connectivity-troubleshooting-SgqHnAK5ChbPxvDN5gBJSm).
+- **Pod-Storage Troubleshooting**: Debugging Tree [here](https://whimsical.com/pod-storage-troubleshooting-7HGdnXtP3FBQPzro6cKCx8).
+
+
